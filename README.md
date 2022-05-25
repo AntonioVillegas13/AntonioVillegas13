@@ -1,4 +1,12 @@
 ### Hi there 👋
+Soy un estudiante de desarrollo de Software, con
+conocimiento en varios lenguajes de programación,
+arquitectura de computadores, seguridad informática,
+manejo de bases de datos y paquete office;
+Interesado en laborar en la industria de desarrollo de
+software para expandir mis conocimientos de varios
+campos como: seguridad, desarrollo de aplicaciones
+y web, etc
 
 <!--
 **AntonioVillegas13/AntonioVillegas13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
